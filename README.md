@@ -1,8 +1,25 @@
-# React + Vite
+# Welcome to my Framework Project 👋
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+<p align="center">
+  <img src="https://github.com/mohamedkhaled-dev/framework-project/blob/main/screenshot/frameowrkProejct.jpg" width="600px" height="600px">
+</p>
 
-Currently, two official plugins are available:
+A clean portfolio template built with React and Tailwind. Dark mode, smooth animations, and mobile-friendly - to showcase your work!
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### ⚡ Features
+- Responsive design that works everywhere
+- Dark/Light mode
+- Smooth animations
+- Contact form
+- Clean UI
+- SPA
+
+## 🛠️ Tech Stack
+- React js
+- Tailwind CSS 
+- React Icons 
+- React Router 
+- Vite 
+
+Feel free to use this template and make it your own! If you like it, drop a ⭐
+
