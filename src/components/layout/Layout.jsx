@@ -1,5 +1,5 @@
 import React from "react";
-import Navbar from "../Navbar/Navbar.jsx";
+import Navbar from "../navbar/Navbar.jsx";
 import Footer from "../footer/Footer.jsx";
 import GradientEffect from "../gradientEffect/GradientEffect.jsx";
 import { Outlet } from "react-router";
