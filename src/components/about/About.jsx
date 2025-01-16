@@ -41,7 +41,7 @@ const About = () => {
         <div className="container">
           {/* Content */}
           <div className="pt-10 flex items-center justify-center">
-            <figure className="min-w-[450px] lg:min-w-[550px]">
+            <figure className="min-w-[350px] sm:min-w-[550px]">
               <img className="w-full" src={Avatar} alt="" />
             </figure>
           </div>

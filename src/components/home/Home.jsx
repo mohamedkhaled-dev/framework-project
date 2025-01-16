@@ -11,7 +11,7 @@ const Home = () => {
       <div className=" isolate px-6 pt-14 lg:px-8 min-h-screen flex flex-col justify-center z-10">
         <div className="container">
           <div className="flex flex-col md:flex-row-reverse justify-around items-center gap-x-4">
-            <figure className="flex items-center min-w-[450px] lg:min-w-[550px]">
+            <figure className="flex items-center min-w-[350px] sm:min-w-[550px]">
               <img className="w-full" src={Avatar} alt="" />
             </figure>
             <div className=" pt-4 flex flex-col justify-center items-center ">
