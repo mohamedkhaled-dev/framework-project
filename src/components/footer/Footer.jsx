@@ -1,4 +1,5 @@
 import React from "react";
+import logo from "../../assets/tailwindcss.svg";
 
 const Footer = () => {
   return (
@@ -6,11 +7,7 @@ const Footer = () => {
       {/* Top Section */}
       <div className="container">
         <figure>
-          <img
-            className="h-8 w-auto"
-            src="https://tailwindui.com/plus/img/logos/mark.svg?color=indigo&shade=600"
-            alt="Tailwind Logo"
-          />
+          <img className="h-8 w-auto" src={logo} alt="Tailwind Logo" />
         </figure>
         <p className="text-sm text-gray-600 dark:text-gray-400 py-6 cursor-default">
           Making the world a better place through constructing elegant

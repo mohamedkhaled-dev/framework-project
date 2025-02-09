@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from "react";
 import { NavLink } from "react-router";
+import logo from "../../assets/tailwindcss.svg"
 
 const Navbar = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
@@ -72,7 +73,7 @@ const Navbar = () => {
               <NavLink to="/">
                 <img
                   className="h-8 w-auto"
-                  src="https://tailwindui.com/plus/img/logos/mark.svg?color=indigo&shade=600"
+                  src={logo}
                   alt="Logo"
                   onClick={() => setIsMenuOpen(false)}
                 />
